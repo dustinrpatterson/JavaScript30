@@ -48,3 +48,10 @@ kbd {
   letter-spacing: 1px;
   color:#ffc600;
 }
+
+.instructions{
+  font-size: 50px;
+  color: black;
+  text-shadow: 0 0 10px #ffc600, 0 0 5px white;
+  text-align: center;
+}
